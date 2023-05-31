@@ -18,7 +18,7 @@ ACEFGIKFMNV (johndoe,pasvord,johndoe@gmail.com, (nema drugi so ist email i usern
 ACEMOPQSPV(johndoe,pasword,johndoegmail,(emailot nema @ ili .)
 
 5.
-if (user==null || user.getPassword()==null || user.getEmail()==null)
+if (user==null || user.getPassword()==null || user.getEmail()==null) 
 TXX | ( ,X,X) | A-B
 FTX | (johndoe, ,X) | A-B
 FFT | (johndoe,password, ) | A-B
