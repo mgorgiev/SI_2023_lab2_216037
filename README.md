@@ -12,9 +12,13 @@ Cyclomatic complexity = R (Regions) = 11
 
 4.
 C0 + ACEMOPQSPV 
+
 ABV (user==null || user.getPassword()==null || user.getEmail()==null) ( , , )
+
 ACDEFGHIJKFMOPQR ( ,passvord!,johndoe@gmail.com,(kade sto postoi veke ist email i user so ist username))
+
 ACEFGIKFMNV (johndoe,pasvord,johndoe@gmail.com, (nema drugi so ist email i username,pasvordot pomal od 8 ili user e ist so pass)
+
 ACEMOPQSPV(johndoe,pasword,johndoegmail,(emailot nema @ ili .)
 
 5.
